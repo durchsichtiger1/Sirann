@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sirann
+- 👀 I’m interested in Coding, Cars ETC
+- 🌱 I’m currently learning HTML, CSS and Lua
